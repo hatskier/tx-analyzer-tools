@@ -1,0 +1,12 @@
+{
+  "name": "tx-analyzer-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hatskier/tx-analyzer-tools",
+  "author": "hatskier <suvorovalex1997@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "coingecko-api": "^1.0.10"
+  }
+}
