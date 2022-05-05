@@ -1,10 +1,12 @@
-const axios = require("axios");
-const fs = require("fs");
-const CoinGecko = require("coingecko-api");
+import axios from "axios";
+import fs from "fs";
+import CoinGecko from "coingecko-api";
+import dateFormat from "dateformat";
 
 const TERRA_FCD_URL = "https://fcd.terra.dev";
 const TX_CACHE_FILE = "./all-transactions.json";
 const SLEEP_TIME_FOR_TX_INDEXING = 700; // milliseconds
+const lunaPriceCache = {};
 
 const CoinGeckoClient = new CoinGecko();
 
@@ -100,8 +102,8 @@ function prepareBotsMintingReport(allTransactions) {
 
 function prepareBotMintingReportForAddress(botTransactions) {
   const botMintingReport = {
-    mintedNFTs: {},
-    mintedNFTsCount: 0,
+    mintedNfts: {},
+    mintedNftsCount: 0,
     totalUstSpent: 0,
   };
 
@@ -125,21 +127,25 @@ function prepareBotMintingReportForAddress(botTransactions) {
         ustSpentInTx += ustSpentInMsg;
       }
 
-      // Update the report
-      botMintingReport.mintedNFTsCount += mintedCountInTx;
-      botMintingReport.totalUstSpent += ustSpentInTx;
-      if (botMintingReport.mintedNFTs[collectionName]) {
-        botMintingReport.mintedNFTs[collectionName].tokenIds.push(...mintedTokenIds);
-        botMintingReport.mintedNFTs[collectionName].mintedCount += mintedCountInTx;
-        botMintingReport.mintedNFTs[collectionName].ustSpent += ustSpentInTx;
-      } else {
-        botMintingReport.mintedNFTs[collectionName] = {
-          nftContractAddress,
-          tokenIds: [...mintedTokenIds],
-          mintedCount: mintedCountInTx,
-          ustSpent: ustSpentInTx,
-        };
+      // We don't count fake collections
+      if (collectionName !== "Fake Luna Shield") {
+        // Update the report
+        botMintingReport.mintedNftsCount += mintedCountInTx;
+        botMintingReport.totalUstSpent += ustSpentInTx;
+        if (botMintingReport.mintedNfts[collectionName]) {
+          botMintingReport.mintedNfts[collectionName].tokenIds.push(...mintedTokenIds);
+          botMintingReport.mintedNfts[collectionName].mintedCount += mintedCountInTx;
+          botMintingReport.mintedNfts[collectionName].ustSpent += ustSpentInTx;
+        } else {
+          botMintingReport.mintedNfts[collectionName] = {
+            nftContractAddress,
+            tokenIds: [...mintedTokenIds],
+            mintedCount: mintedCountInTx,
+            ustSpent: ustSpentInTx,
+          };
+        }
       }
+
     }
   }
 
@@ -190,7 +196,6 @@ async function prepareMarketplaceSalesReportForAddress({ transactions, botsMinti
       const denom = txAttributes[7].value; // uluna or uusd
       const earnedAmount = txAttributes[9].value / 1000000; // Both uusd and uluna have 6 decimals
 
-      console.log({earnedAmount, denom});
       const timestamp = new Date(tx.timestamp).getTime();
       const earnedUstValue = await calculateUstValue({
         denom,
@@ -229,7 +234,7 @@ async function prepareMarketplaceSalesReportForAddress({ transactions, botsMinti
 
 function wasTokenMintedByBots({ botsMintingReport, tokenId, nftCollectionName }) {
   for (const reportForBot of Object.values(botsMintingReport)) {
-    if (reportForBot.mintedNFTs[nftCollectionName]?.tokenIds.includes(tokenId)) {
+    if (reportForBot.mintedNfts[nftCollectionName]?.tokenIds.includes(tokenId)) {
       return true;
     }
   }
@@ -245,25 +250,69 @@ async function calculateUstValue({ denom, amount, timestamp }) {
   }
 }
 
-// TODO: implement
 async function getHistoricalLunaPriceInUSD(timestamp) {
-  // return 100;
+  const date = dateFormat(timestamp, "dd-mm-yyyy");
 
-  // const response = await CoinGeckoClient.coins.fetchMarketChartRange("terra-luna", {
-  //   from: timestamp,
-  //   to: timestamp,
-  // });
+  // Fetch price from coingecko if it was not already fetched for the given date
+  if (!lunaPriceCache[date]) {
+    const response = await CoinGeckoClient.coins.fetchHistory("terra-luna", { date });
+    const historicalLunaPriceInUSD = response.data.market_data.current_price.usd;
+    lunaPriceCache[date] = historicalLunaPriceInUSD;
+    console.log({historicalLunaPriceInUSD, date}); 
+  }
 
-  // console.log(response);
-
-  return 100;
+  return lunaPriceCache[date];
 }
 
-// TODO: implement
 function prepareReportPerCollection({ botsMintingReport, marketplaceSalesReport }) {
   const reportPerCollection = {};
 
-  // for (const botMintingReport)
+  // Fetching data from bot minting report
+  for (const botMintingReport of Object.values(botsMintingReport)) {
+    for (const [nftCollectionName, nftCollectionReport] of Object.entries(botMintingReport.mintedNfts)) {
+      if (!reportPerCollection[nftCollectionName]) {
+        reportPerCollection[nftCollectionName] = {
+          // mintedNfts: [],
+          mintedCount: 0,
+          ustSpent: 0,
+          ustEarned: 0,
+          ustProfit: 0,
+          // soldNfts: [],
+          soldCount: 0,
+        };
+      }
+
+      // Update collection report with bot minting data
+      // reportPerCollection[nftCollectionName].mintedNfts.push(...nftCollectionReport.tokenIds);
+      reportPerCollection[nftCollectionName].mintedCount += nftCollectionReport.tokenIds.length;
+      reportPerCollection[nftCollectionName].ustSpent += nftCollectionReport.ustSpent;
+      reportPerCollection[nftCollectionName].ustProfit -= nftCollectionReport.ustSpent;
+    }
+  }
+
+  // Fetching data from marketplace sales report
+  for (const salesReportForAddress of Object.values(marketplaceSalesReport)) {
+    for (const [nftCollectionName, nftCollectionReport] of Object.entries(salesReportForAddress.soldNfts)) {
+      if (!reportPerCollection[nftCollectionName]) {
+        reportPerCollection[nftCollectionName] = {
+          // mintedNfts: [], // commented to make the output cleaner
+          mintedCount: 0,
+          ustSpent: 0,
+          ustEarned: 0,
+          ustProfit: 0,
+          // soldNfts: [],
+          soldCount: 0,
+        };
+      }
+
+      // Update collection report with sales data
+      console.log({nftCollectionName, nftCollectionReport});
+      // reportPerCollection[nftCollectionName].soldNfts.push(...nftCollectionReport.soldTokenIds);
+      reportPerCollection[nftCollectionName].soldCount += nftCollectionReport.soldTokenIds.length;
+      reportPerCollection[nftCollectionName].ustEarned += nftCollectionReport.ustEarnedFromSales;
+      reportPerCollection[nftCollectionName].ustProfit += nftCollectionReport.ustEarnedFromSales;
+    }
+  }
 
   return reportPerCollection;
 }
@@ -279,7 +328,7 @@ function prepareFinalReport({ botsMintingReport, marketplaceSalesReport }) {
   
   for (const botMintingReport of Object.values(botsMintingReport)) {
     finalReport.totalUstSpent += botMintingReport.totalUstSpent;
-    finalReport.totalNftsMinted += botMintingReport.mintedNFTsCount;
+    finalReport.totalNftsMinted += botMintingReport.mintedNftsCount;
   }
 
   for (const salesReport of Object.values(marketplaceSalesReport)) {
@@ -293,14 +342,17 @@ function prepareFinalReport({ botsMintingReport, marketplaceSalesReport }) {
 }
 
 // TODO: improve this function
+// To make the ouput easier to read for non-devs
 function prettyPrintReports({
   botsMintingReport,
   marketplaceSalesReport,
+  reportPerCollection,
   finalReport,
 }) {
   console.log(JSON.stringify({
     botsMintingReport,
     marketplaceSalesReport,
+    reportPerCollection,
     finalReport,
   }, null, 2));
 }
@@ -322,6 +374,7 @@ function getNftCollectionNameByContractAddress(nftContractAddress) {
     "terra1nyqyxamvuhtd8h756tkqsejc7plj6lr5gdfj5e": "LUNI",
     "terra1ggv86dkuzmky7ww20s2uvm6pl2jvl9mv0z6zyt": "DystopAI",
     "terra1cefmm3msvp2erknw54zjlnh39e5lww685nzl50": "Fake Luna Shield",
+    "terra1934kn7p03ns94htl75zpzsg0n4yvw8yf2746ep": "Styllar Avatars",
     "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t": "Luna Shield",
     "terra1p4mlfdwm4h0hvyv0c64kmj3afs5zzj3t2jszvw": "COL",
     "terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0": "Silent Solohs",
@@ -334,7 +387,7 @@ function getNftCollectionNameByContractAddress(nftContractAddress) {
     "terra1d8m6k7ww7x0zcedq8gqckn0ez863a75p0ckwla": "Luna Lions",
     "terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74": "MutantZ",
     "terra1ygy58urzh826al6ktlskh4z6hnd2aunhcn0cvm": "Galactic Gridz",
-    "terra1pw0x4f7ktv4vdqvx8dfaa5d2lp0t5rpzep9ewn": "MintDAO NFT",
+    "terra1pw0x4f7ktv4vdqvx8dfaa5d2lp0t5rpzep9ewn": "MintDAO Nft",
     "terra1my4sy2gt5suu9fgt8wdkm7ywrd5jzg86692as2": "Anarchists on Terra",
     "terra1alskwhl7x6gteuqkw7z9pexw4v9hr78mh0r6da": "Astro Heroes",
     "terra14aykuyg03462at2tpnua7tnhk7p0dr7wexepnh": "LUNILAND Plots #1",

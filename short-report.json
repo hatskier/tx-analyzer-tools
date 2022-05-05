@@ -1,0 +1,60 @@
+{
+  "finalReport": {
+    "totalUstSpent": 11984.999999999993,
+    "totalUstEarned": 34249.80871275098,
+    "totalNftsMinted": 155,
+    "totalProfitInUST": 22264.808712750986,
+    "soldNftsCount": 94
+  },
+  "reportPerCollection": {
+    "GraviCats": {
+      "mintedCount": 54,
+      "ustSpent": 2710.800000000001,
+      "ustEarned": 12183.785609422288,
+      "ustProfit": 9472.985609422287,
+      "soldCount": 36
+    },
+    "LUNITA": {
+      "mintedCount": 21,
+      "ustSpent": 2083.2000000000003,
+      "ustEarned": 2526.6562358398346,
+      "ustProfit": 443.4562358398342,
+      "soldCount": 10
+    },
+    "MutantZ": {
+      "mintedCount": 3,
+      "ustSpent": 147.60000000000002,
+      "ustEarned": 210.43577778702354,
+      "ustProfit": 62.83577778702353,
+      "soldCount": 2
+    },
+    "Rekt Wolf": {
+      "mintedCount": 9,
+      "ustSpent": 1792.8,
+      "ustEarned": 7975.574318558639,
+      "ustProfit": 6182.77431855864,
+      "soldCount": 9
+    },
+    "Skeleton Punks": {
+      "mintedCount": 25,
+      "ustSpent": 2755,
+      "ustEarned": 6953.2949724590435,
+      "ustProfit": 4198.2949724590435,
+      "soldCount": 18
+    },
+    "Luna Shield": {
+      "mintedCount": 13,
+      "ustSpent": 1289.6000000000001,
+      "ustEarned": 759.6523105812262,
+      "ustProfit": -529.9476894187741,
+      "soldCount": 6
+    },
+    "Silent Solohs": {
+      "mintedCount": 30,
+      "ustSpent": 1206.0000000000007,
+      "ustEarned": 3640.4094881029314,
+      "ustProfit": 2434.4094881029305,
+      "soldCount": 13
+    }
+  }
+}

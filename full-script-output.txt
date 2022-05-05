@@ -1,0 +1,1892 @@
+Txs cache file located. Loading txs from this file...
+{
+  botMintingReportForAddress: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      MutantZ: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 22,
+    totalUstSpent: 2289.4
+  },
+  botAddress: 'terra1mvd3ca3h6gcljq4ntvakh23kjk3wyhk4z0tu2m'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      MutantZ: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 18,
+    totalUstSpent: 1892.6
+  },
+  botAddress: 'terra1j0mwwkk49r0mml23tek30ueanr93750vpmuswt'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: {
+      GraviCats: [Object],
+      MutantZ: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 12,
+    totalUstSpent: 1297.4
+  },
+  botAddress: 'terra15a8wa7erj6ajvsswyvxdjfe4dm3nrnh96c6m4u'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 13,
+    totalUstSpent: 1446.6000000000001
+  },
+  botAddress: 'terra1x9s9qgdsdaxhh3df9kcnqe5dyyzz2q5smragv2'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Silent Solohs': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 46,
+    totalUstSpent: 2850.2000000000007
+  },
+  botAddress: 'terra1ala6zs487f6trrt504az0syfsttd029xuhnh6q'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1nucq3q83yhmnnt2uteaykh0kksfu9y65nrvex9'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1ljnhx8f644c60r6jz628p9k67us4r2kg9s4g7d'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1jn9eu45fgdxfwmq3y9afdd9x2dmgt45r78lccy'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra12fyk2wrwygg7054js9t3hj6rrn2ccd6z2grshp'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1xymaerjna07yv7e32u7vfvhs7594wczh6ffflt'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra138xnes8d4835ds6sk4wsf44x583485rv4z4htl'
+}
+{
+  botMintingReportForAddress: { mintedNfts: {}, mintedNftsCount: 0, totalUstSpent: 0 },
+  botAddress: 'terra1z6tpjlhvhl6dv2djm52vcdkw2amv637s43cpsl'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1wz6lp9ayf35k8cdxesmyrydxxeglyptxhwg9e8'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra19682etxsay8h4lrff5cg70adh0mmjm3ctamy7n'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1d3hl5s4ncu6e02u560hjaevq9slffwrswd4g4r'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1jg3wnmd8fxgdhtmpnwnz6dgxeuvk8a9nxya037'
+}
+{
+  botMintingReportForAddress: { mintedNfts: {}, mintedNftsCount: 0, totalUstSpent: 0 },
+  botAddress: 'terra1mkmm846a97phqlr9zpu94phjqvwegja66pufh0'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra159zpdxf07yhe7szkmhy9qwqwm7e6m3yljch2qu'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1v9agdxx8pcsd9734n79f3yg9wh4e3ft2vnlnwv'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1tyccxuq2kuyn44zxsy8jupednquyq04547w0hh'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1hgj4ar7a28el4hqgdndkruvl7shemjvjqd2cfr'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra18zvr67rf26q24aclzpkc4ed98usq9sm9wny96d'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1weh2q3utyhfpt8j36v5yp0nyhcl2r8hu2zkusc'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1t38xtlz0huywh8h5c74pnzwcntajyn5aajzekn'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1nwgcam5fxtradcxcmpy3x3nus7g258wtg2f3ze'
+}
+{
+  botMintingReportForAddress: { mintedNfts: {}, mintedNftsCount: 0, totalUstSpent: 0 },
+  botAddress: 'terra138turxsmh3q462264let7h4pz9dkyk7fvnf0yj'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1ft3yzexjnl6ryfz4f277k9haus4xykqt0ge3ee'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1ry0c33tsaqfxd4hdwmx8z2l5awk728cphx8rwj'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra138vryeyjsalhefcv0acf9pjjapfpet096r9n30'
+}
+{
+  botMintingReportForAddress: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  botAddress: 'terra1vc4c3gjduhptqvfzjr2xml9skwyte7y759j0ey'
+}
+{
+  terra1mvd3ca3h6gcljq4ntvakh23kjk3wyhk4z0tu2m: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      MutantZ: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 22,
+    totalUstSpent: 2289.4
+  },
+  terra1j0mwwkk49r0mml23tek30ueanr93750vpmuswt: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      MutantZ: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 18,
+    totalUstSpent: 1892.6
+  },
+  terra15a8wa7erj6ajvsswyvxdjfe4dm3nrnh96c6m4u: {
+    mintedNfts: {
+      GraviCats: [Object],
+      MutantZ: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 12,
+    totalUstSpent: 1297.4
+  },
+  terra1x9s9qgdsdaxhh3df9kcnqe5dyyzz2q5smragv2: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 13,
+    totalUstSpent: 1446.6000000000001
+  },
+  terra1ala6zs487f6trrt504az0syfsttd029xuhnh6q: {
+    mintedNfts: {
+      GraviCats: [Object],
+      LUNITA: [Object],
+      'Rekt Wolf': [Object],
+      'Skeleton Punks': [Object],
+      'Silent Solohs': [Object],
+      'Luna Shield': [Object]
+    },
+    mintedNftsCount: 46,
+    totalUstSpent: 2850.2000000000007
+  },
+  terra1nucq3q83yhmnnt2uteaykh0kksfu9y65nrvex9: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1ljnhx8f644c60r6jz628p9k67us4r2kg9s4g7d: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1jn9eu45fgdxfwmq3y9afdd9x2dmgt45r78lccy: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra12fyk2wrwygg7054js9t3hj6rrn2ccd6z2grshp: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1xymaerjna07yv7e32u7vfvhs7594wczh6ffflt: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra138xnes8d4835ds6sk4wsf44x583485rv4z4htl: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1z6tpjlhvhl6dv2djm52vcdkw2amv637s43cpsl: { mintedNfts: {}, mintedNftsCount: 0, totalUstSpent: 0 },
+  terra1wz6lp9ayf35k8cdxesmyrydxxeglyptxhwg9e8: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra19682etxsay8h4lrff5cg70adh0mmjm3ctamy7n: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1d3hl5s4ncu6e02u560hjaevq9slffwrswd4g4r: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1jg3wnmd8fxgdhtmpnwnz6dgxeuvk8a9nxya037: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1mkmm846a97phqlr9zpu94phjqvwegja66pufh0: { mintedNfts: {}, mintedNftsCount: 0, totalUstSpent: 0 },
+  terra159zpdxf07yhe7szkmhy9qwqwm7e6m3yljch2qu: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1v9agdxx8pcsd9734n79f3yg9wh4e3ft2vnlnwv: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1tyccxuq2kuyn44zxsy8jupednquyq04547w0hh: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1hgj4ar7a28el4hqgdndkruvl7shemjvjqd2cfr: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra18zvr67rf26q24aclzpkc4ed98usq9sm9wny96d: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1weh2q3utyhfpt8j36v5yp0nyhcl2r8hu2zkusc: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1t38xtlz0huywh8h5c74pnzwcntajyn5aajzekn: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1nwgcam5fxtradcxcmpy3x3nus7g258wtg2f3ze: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra138turxsmh3q462264let7h4pz9dkyk7fvnf0yj: { mintedNfts: {}, mintedNftsCount: 0, totalUstSpent: 0 },
+  terra1ft3yzexjnl6ryfz4f277k9haus4xykqt0ge3ee: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1ry0c33tsaqfxd4hdwmx8z2l5awk728cphx8rwj: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra138vryeyjsalhefcv0acf9pjjapfpet096r9n30: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  },
+  terra1vc4c3gjduhptqvfzjr2xml9skwyte7y759j0ey: {
+    mintedNfts: { GraviCats: [Object] },
+    mintedNftsCount: 2,
+    totalUstSpent: 100.4
+  }
+}
+{ historicalLunaPriceInUSD: 85.05987479150966, date: '30-04-2022' }
+{ historicalLunaPriceInUSD: 97.03812115194272, date: '26-04-2022' }
+{ historicalLunaPriceInUSD: 90.46092849691097, date: '25-04-2022' }
+{ historicalLunaPriceInUSD: 93.68809957130395, date: '23-04-2022' }
+{ historicalLunaPriceInUSD: 90.67972695393523, date: '22-04-2022' }
+{ historicalLunaPriceInUSD: 94.93576480330384, date: '21-04-2022' }
+{ historicalLunaPriceInUSD: 95.71395938869361, date: '20-04-2022' }
+{ historicalLunaPriceInUSD: 91.15005208945713, date: '19-04-2022' }
+{ historicalLunaPriceInUSD: 77.42162559120054, date: '18-04-2022' }
+{ historicalLunaPriceInUSD: 81.05254030215846, date: '17-04-2022' }
+{ historicalLunaPriceInUSD: 81.67575260339214, date: '15-04-2022' }
+{ historicalLunaPriceInUSD: 87.84777221968402, date: '14-04-2022' }
+{ historicalLunaPriceInUSD: 84.57206595034742, date: '13-04-2022' }
+{ historicalLunaPriceInUSD: 112.76806371284901, date: '04-04-2022' }
+{ historicalLunaPriceInUSD: 77.72441041853297, date: '08-03-2022' }
+{ historicalLunaPriceInUSD: 90.55615014930927, date: '04-03-2022' }
+{ historicalLunaPriceInUSD: 65.44418280530095, date: '25-02-2022' }
+{ historicalLunaPriceInUSD: 50.422082429192564, date: '12-02-2022' }
+{ historicalLunaPriceInUSD: 57.29544426094341, date: '10-02-2022' }
+{ historicalLunaPriceInUSD: 52.114057715058586, date: '02-02-2022' }
+{ historicalLunaPriceInUSD: 78.26015799280017, date: '14-01-2022' }
+{ historicalLunaPriceInUSD: 62.60645063584536, date: '23-01-2022' }
+{ historicalLunaPriceInUSD: 77.07080517274909, date: '21-01-2022' }
+{ historicalLunaPriceInUSD: 82.6690637953961, date: '04-05-2022' }
+{ historicalLunaPriceInUSD: 88.6142095235898, date: '27-04-2022' }
+{ historicalLunaPriceInUSD: 88.71483176572745, date: '16-03-2022' }
+{ historicalLunaPriceInUSD: 91.96952735700272, date: '03-03-2022' }
+{ historicalLunaPriceInUSD: 73.18102140523344, date: '26-02-2022' }
+{ historicalLunaPriceInUSD: 50.82219279960968, date: '19-02-2022' }
+{ historicalLunaPriceInUSD: 50.337451007168816, date: '18-02-2022' }
+{ historicalLunaPriceInUSD: 51.84318699085403, date: '14-02-2022' }
+{ historicalLunaPriceInUSD: 52.01808979917146, date: '13-02-2022' }
+{ historicalLunaPriceInUSD: 57.34682233640769, date: '09-02-2022' }
+{ historicalLunaPriceInUSD: 59.60722547565438, date: '08-02-2022' }
+{ historicalLunaPriceInUSD: 94.14525750203352, date: '15-03-2022' }
+{ historicalLunaPriceInUSD: 52.13371664213678, date: '01-02-2022' }
+{ historicalLunaPriceInUSD: 77.69005335313172, date: '27-02-2022' }
+{ historicalLunaPriceInUSD: 56.819537944811024, date: '16-02-2022' }
+{ historicalLunaPriceInUSD: 54.66896323920333, date: '23-02-2022' }
+{ historicalLunaPriceInUSD: 58.91957212940556, date: '27-01-2022' }
+{
+  nftCollectionName: 'GraviCats',
+  nftCollectionReport: {
+    ustEarnedFromSales: 9200.445422706947,
+    soldNftsCount: 28,
+    soldTokenIds: [
+      '919', '956', '907', '848',
+      '337', '900', '887', '593',
+      '378', '815', '803', '655',
+      '682', '642', '605', '548',
+      '517', '284', '468', '444',
+      '436', '269', '345', '288',
+      '331', '227', '219', '205'
+    ]
+  }
+}
+{
+  nftCollectionName: 'Rekt Wolf',
+  nftCollectionReport: {
+    ustEarnedFromSales: 5862.830401827793,
+    soldNftsCount: 4,
+    soldTokenIds: [ '1310', '1644', '262', '1644' ]
+  }
+}
+{
+  nftCollectionName: 'Silent Solohs',
+  nftCollectionReport: {
+    ustEarnedFromSales: 64.67342289876339,
+    soldNftsCount: 2,
+    soldTokenIds: [ '577', '4286' ]
+  }
+}
+{
+  nftCollectionName: 'Skeleton Punks',
+  nftCollectionReport: {
+    ustEarnedFromSales: 1169.7583412120914,
+    soldNftsCount: 3,
+    soldTokenIds: [ '200', '3382', '2172' ]
+  }
+}
+{
+  nftCollectionName: 'LUNITA',
+  nftCollectionReport: {
+    ustEarnedFromSales: 1835.679368815137,
+    soldNftsCount: 8,
+    soldTokenIds: [
+      '1688', '486',
+      '1519', '2302',
+      '1433', '2231',
+      '429',  '503'
+    ]
+  }
+}
+{
+  nftCollectionName: 'Luna Shield',
+  nftCollectionReport: {
+    ustEarnedFromSales: 11.516281117078291,
+    soldNftsCount: 1,
+    soldTokenIds: [ '177' ]
+  }
+}
+{
+  nftCollectionName: 'GraviCats',
+  nftCollectionReport: {
+    ustEarnedFromSales: 1916.6887563389353,
+    soldNftsCount: 6,
+    soldTokenIds: [ '68', '93', '394', '831', '599', '196' ]
+  }
+}
+{
+  nftCollectionName: 'LUNITA',
+  nftCollectionReport: {
+    ustEarnedFromSales: 690.9768670246975,
+    soldNftsCount: 2,
+    soldTokenIds: [ '487', '1133' ]
+  }
+}
+{
+  nftCollectionName: 'MutantZ',
+  nftCollectionReport: {
+    ustEarnedFromSales: 104.23992732472976,
+    soldNftsCount: 1,
+    soldTokenIds: [ '518' ]
+  }
+}
+{
+  nftCollectionName: 'Rekt Wolf',
+  nftCollectionReport: {
+    ustEarnedFromSales: 340.49112456140284,
+    soldNftsCount: 1,
+    soldTokenIds: [ '1644' ]
+  }
+}
+{
+  nftCollectionName: 'GraviCats',
+  nftCollectionReport: {
+    ustEarnedFromSales: 1066.6514303764054,
+    soldNftsCount: 2,
+    soldTokenIds: [ '181', '178' ]
+  }
+}
+{
+  nftCollectionName: 'MutantZ',
+  nftCollectionReport: {
+    ustEarnedFromSales: 106.19585046229379,
+    soldNftsCount: 1,
+    soldTokenIds: [ '877' ]
+  }
+}
+{
+  nftCollectionName: 'Skeleton Punks',
+  nftCollectionReport: {
+    ustEarnedFromSales: 862.1340842883205,
+    soldNftsCount: 3,
+    soldTokenIds: [ '2464', '4380', '2650' ]
+  }
+}
+{
+  nftCollectionName: 'Luna Shield',
+  nftCollectionReport: {
+    ustEarnedFromSales: 39.20455491488686,
+    soldNftsCount: 1,
+    soldTokenIds: [ '919' ]
+  }
+}
+{
+  nftCollectionName: 'Rekt Wolf',
+  nftCollectionReport: {
+    ustEarnedFromSales: 302.57974500453895,
+    soldNftsCount: 1,
+    soldTokenIds: [ '837' ]
+  }
+}
+{
+  nftCollectionName: 'Luna Shield',
+  nftCollectionReport: {
+    ustEarnedFromSales: 32.01519456216984,
+    soldNftsCount: 2,
+    soldTokenIds: [ '346', '549' ]
+  }
+}
+{
+  nftCollectionName: 'Skeleton Punks',
+  nftCollectionReport: {
+    ustEarnedFromSales: 307.5876591849145,
+    soldNftsCount: 1,
+    soldTokenIds: [ '497' ]
+  }
+}
+{
+  nftCollectionName: 'Rekt Wolf',
+  nftCollectionReport: {
+    ustEarnedFromSales: 259.35406714674764,
+    soldNftsCount: 1,
+    soldTokenIds: [ '465' ]
+  }
+}
+{
+  nftCollectionName: 'Skeleton Punks',
+  nftCollectionReport: {
+    ustEarnedFromSales: 1353.385700413624,
+    soldNftsCount: 4,
+    soldTokenIds: [ '895', '2493', '3548', '4418' ]
+  }
+}
+{
+  nftCollectionName: 'Rekt Wolf',
+  nftCollectionReport: {
+    ustEarnedFromSales: 345.8054228623302,
+    soldNftsCount: 1,
+    soldTokenIds: [ '1291' ]
+  }
+}
+{
+  nftCollectionName: 'Luna Shield',
+  nftCollectionReport: {
+    ustEarnedFromSales: 12.30350636739658,
+    soldNftsCount: 1,
+    soldTokenIds: [ '726' ]
+  }
+}
+{
+  nftCollectionName: 'Skeleton Punks',
+  nftCollectionReport: {
+    ustEarnedFromSales: 984.2805093917264,
+    soldNftsCount: 3,
+    soldTokenIds: [ '3369', '2943', '5053' ]
+  }
+}
+{
+  nftCollectionName: 'Rekt Wolf',
+  nftCollectionReport: {
+    ustEarnedFromSales: 864.5135571558255,
+    soldNftsCount: 1,
+    soldTokenIds: [ '1675' ]
+  }
+}
+{
+  nftCollectionName: 'Skeleton Punks',
+  nftCollectionReport: {
+    ustEarnedFromSales: 2276.1486779683673,
+    soldNftsCount: 4,
+    soldTokenIds: [ '76', '1535', '3486', '112' ]
+  }
+}
+{
+  nftCollectionName: 'Silent Solohs',
+  nftCollectionReport: {
+    ustEarnedFromSales: 3575.736065204168,
+    soldNftsCount: 11,
+    soldTokenIds: [
+      '1135', '3627',
+      '1783', '4965',
+      '416',  '183',
+      '2916', '3692',
+      '858',  '3331',
+      '3581'
+    ]
+  }
+}
+{
+  nftCollectionName: 'Luna Shield',
+  nftCollectionReport: {
+    ustEarnedFromSales: 664.6127736196946,
+    soldNftsCount: 1,
+    soldTokenIds: [ '809' ]
+  }
+}
+{
+  "botsMintingReport": {
+    "terra1mvd3ca3h6gcljq4ntvakh23kjk3wyhk4z0tu2m": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "922",
+            "394"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        },
+        "LUNITA": {
+          "nftContractAddress": "terra13fz4lrx6z952phcjjqzzacavnhxq2u5vt402vj",
+          "tokenIds": [
+            "1519",
+            "2169",
+            "744",
+            "334",
+            "229",
+            "1433",
+            "487"
+          ],
+          "mintedCount": 7,
+          "ustSpent": 694.4000000000001
+        },
+        "MutantZ": {
+          "nftContractAddress": "terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74",
+          "tokenIds": [
+            "877"
+          ],
+          "mintedCount": 1,
+          "ustSpent": 49.2
+        },
+        "Rekt Wolf": {
+          "nftContractAddress": "terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+          "tokenIds": [
+            "1310",
+            "172"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 398.4
+        },
+        "Skeleton Punks": {
+          "nftContractAddress": "terra1chu9s72tqguuzgn0tr6rhwvnrgcgzme73y5l4x",
+          "tokenIds": [
+            "3382",
+            "2650",
+            "4380",
+            "2464",
+            "2172"
+          ],
+          "mintedCount": 5,
+          "ustSpent": 551
+        },
+        "Luna Shield": {
+          "nftContractAddress": "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
+          "tokenIds": [
+            "188",
+            "193",
+            "177",
+            "919",
+            "778"
+          ],
+          "mintedCount": 5,
+          "ustSpent": 496
+        }
+      },
+      "mintedNftsCount": 22,
+      "totalUstSpent": 2289.4
+    },
+    "terra1j0mwwkk49r0mml23tek30ueanr93750vpmuswt": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "956",
+            "642"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        },
+        "LUNITA": {
+          "nftContractAddress": "terra13fz4lrx6z952phcjjqzzacavnhxq2u5vt402vj",
+          "tokenIds": [
+            "2302",
+            "1133",
+            "503",
+            "2231",
+            "847"
+          ],
+          "mintedCount": 5,
+          "ustSpent": 496
+        },
+        "MutantZ": {
+          "nftContractAddress": "terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74",
+          "tokenIds": [
+            "286"
+          ],
+          "mintedCount": 1,
+          "ustSpent": 49.2
+        },
+        "Rekt Wolf": {
+          "nftContractAddress": "terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+          "tokenIds": [
+            "262",
+            "837"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 398.4
+        },
+        "Skeleton Punks": {
+          "nftContractAddress": "terra1chu9s72tqguuzgn0tr6rhwvnrgcgzme73y5l4x",
+          "tokenIds": [
+            "497",
+            "200",
+            "4801",
+            "4033",
+            "1598"
+          ],
+          "mintedCount": 5,
+          "ustSpent": 551
+        },
+        "Luna Shield": {
+          "nftContractAddress": "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
+          "tokenIds": [
+            "549",
+            "346",
+            "808"
+          ],
+          "mintedCount": 3,
+          "ustSpent": 297.6
+        }
+      },
+      "mintedNftsCount": 18,
+      "totalUstSpent": 1892.6
+    },
+    "terra15a8wa7erj6ajvsswyvxdjfe4dm3nrnh96c6m4u": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "778",
+            "965"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        },
+        "MutantZ": {
+          "nftContractAddress": "terra1stzp2dlwceqh6k6cffv4zj64ddx28rdgpdal74",
+          "tokenIds": [
+            "518"
+          ],
+          "mintedCount": 1,
+          "ustSpent": 49.2
+        },
+        "Rekt Wolf": {
+          "nftContractAddress": "terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+          "tokenIds": [
+            "465",
+            "1496"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 398.4
+        },
+        "Skeleton Punks": {
+          "nftContractAddress": "terra1chu9s72tqguuzgn0tr6rhwvnrgcgzme73y5l4x",
+          "tokenIds": [
+            "3548",
+            "2493",
+            "4418",
+            "3009",
+            "895"
+          ],
+          "mintedCount": 5,
+          "ustSpent": 551
+        },
+        "Luna Shield": {
+          "nftContractAddress": "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
+          "tokenIds": [
+            "829",
+            "856"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 198.4
+        }
+      },
+      "mintedNftsCount": 12,
+      "totalUstSpent": 1297.4
+    },
+    "terra1x9s9qgdsdaxhh3df9kcnqe5dyyzz2q5smragv2": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "752",
+            "196"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        },
+        "LUNITA": {
+          "nftContractAddress": "terra13fz4lrx6z952phcjjqzzacavnhxq2u5vt402vj",
+          "tokenIds": [
+            "834",
+            "265"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 198.4
+        },
+        "Rekt Wolf": {
+          "nftContractAddress": "terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+          "tokenIds": [
+            "1644",
+            "1291"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 398.4
+        },
+        "Skeleton Punks": {
+          "nftContractAddress": "terra1chu9s72tqguuzgn0tr6rhwvnrgcgzme73y5l4x",
+          "tokenIds": [
+            "2943",
+            "485",
+            "5053",
+            "3400",
+            "3369"
+          ],
+          "mintedCount": 5,
+          "ustSpent": 551
+        },
+        "Luna Shield": {
+          "nftContractAddress": "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
+          "tokenIds": [
+            "726",
+            "709"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 198.4
+        }
+      },
+      "mintedNftsCount": 13,
+      "totalUstSpent": 1446.6000000000001
+    },
+    "terra1ala6zs487f6trrt504az0syfsttd029xuhnh6q": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "978",
+            "907"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        },
+        "LUNITA": {
+          "nftContractAddress": "terra13fz4lrx6z952phcjjqzzacavnhxq2u5vt402vj",
+          "tokenIds": [
+            "2142",
+            "429",
+            "1467",
+            "486",
+            "1688",
+            "1668",
+            "95"
+          ],
+          "mintedCount": 7,
+          "ustSpent": 694.4000000000001
+        },
+        "Rekt Wolf": {
+          "nftContractAddress": "terra1x8m8vju636xh7026dehq6g7ye66tn0yu4c7mq8",
+          "tokenIds": [
+            "1675"
+          ],
+          "mintedCount": 1,
+          "ustSpent": 199.2
+        },
+        "Skeleton Punks": {
+          "nftContractAddress": "terra1chu9s72tqguuzgn0tr6rhwvnrgcgzme73y5l4x",
+          "tokenIds": [
+            "3486",
+            "1535",
+            "76",
+            "112",
+            "4471"
+          ],
+          "mintedCount": 5,
+          "ustSpent": 551
+        },
+        "Silent Solohs": {
+          "nftContractAddress": "terra1h9rhu457nllgrh4w8rcmc2exv6nvfcjdnd30j0",
+          "tokenIds": [
+            "315",
+            "3692",
+            "2499",
+            "3204",
+            "2339",
+            "1135",
+            "4549",
+            "3077",
+            "858",
+            "4994",
+            "3581",
+            "4803",
+            "4965",
+            "577",
+            "1827",
+            "3000",
+            "4286",
+            "1783",
+            "3627",
+            "3451",
+            "2916",
+            "3331",
+            "2144",
+            "1588",
+            "4534",
+            "3753",
+            "183",
+            "4927",
+            "3684",
+            "416"
+          ],
+          "mintedCount": 30,
+          "ustSpent": 1206.0000000000007
+        },
+        "Luna Shield": {
+          "nftContractAddress": "terra1qpu42s4hrrnvxsxr428scd5st9zd4fmn5me38t",
+          "tokenIds": [
+            "809"
+          ],
+          "mintedCount": 1,
+          "ustSpent": 99.2
+        }
+      },
+      "mintedNftsCount": 46,
+      "totalUstSpent": 2850.2000000000007
+    },
+    "terra1nucq3q83yhmnnt2uteaykh0kksfu9y65nrvex9": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "548",
+            "468"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1ljnhx8f644c60r6jz628p9k67us4r2kg9s4g7d": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "93",
+            "80"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1jn9eu45fgdxfwmq3y9afdd9x2dmgt45r78lccy": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "205",
+            "181"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra12fyk2wrwygg7054js9t3hj6rrn2ccd6z2grshp": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "331",
+            "605"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1xymaerjna07yv7e32u7vfvhs7594wczh6ffflt": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "227",
+            "815"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra138xnes8d4835ds6sk4wsf44x583485rv4z4htl": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "737",
+            "599"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1z6tpjlhvhl6dv2djm52vcdkw2amv637s43cpsl": {
+      "mintedNfts": {},
+      "mintedNftsCount": 0,
+      "totalUstSpent": 0
+    },
+    "terra1wz6lp9ayf35k8cdxesmyrydxxeglyptxhwg9e8": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "68",
+            "821"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra19682etxsay8h4lrff5cg70adh0mmjm3ctamy7n": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "219",
+            "378"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1d3hl5s4ncu6e02u560hjaevq9slffwrswd4g4r": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "270",
+            "976"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1jg3wnmd8fxgdhtmpnwnz6dgxeuvk8a9nxya037": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "436",
+            "345"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1mkmm846a97phqlr9zpu94phjqvwegja66pufh0": {
+      "mintedNfts": {},
+      "mintedNftsCount": 0,
+      "totalUstSpent": 0
+    },
+    "terra159zpdxf07yhe7szkmhy9qwqwm7e6m3yljch2qu": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "655",
+            "695"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1v9agdxx8pcsd9734n79f3yg9wh4e3ft2vnlnwv": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "284",
+            "831"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1tyccxuq2kuyn44zxsy8jupednquyq04547w0hh": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "517",
+            "178"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1hgj4ar7a28el4hqgdndkruvl7shemjvjqd2cfr": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "848",
+            "932"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra18zvr67rf26q24aclzpkc4ed98usq9sm9wny96d": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "919",
+            "269"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1weh2q3utyhfpt8j36v5yp0nyhcl2r8hu2zkusc": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "900",
+            "803"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1t38xtlz0huywh8h5c74pnzwcntajyn5aajzekn": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "983",
+            "732"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1nwgcam5fxtradcxcmpy3x3nus7g258wtg2f3ze": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "288",
+            "593"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra138turxsmh3q462264let7h4pz9dkyk7fvnf0yj": {
+      "mintedNfts": {},
+      "mintedNftsCount": 0,
+      "totalUstSpent": 0
+    },
+    "terra1ft3yzexjnl6ryfz4f277k9haus4xykqt0ge3ee": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "682",
+            "816"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1ry0c33tsaqfxd4hdwmx8z2l5awk728cphx8rwj": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "337",
+            "887"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra138vryeyjsalhefcv0acf9pjjapfpet096r9n30": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "638",
+            "808"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    },
+    "terra1vc4c3gjduhptqvfzjr2xml9skwyte7y759j0ey": {
+      "mintedNfts": {
+        "GraviCats": {
+          "nftContractAddress": "terra17hsdmscnz0y24d5zn7k4tsru9clyazp8cwtd44",
+          "tokenIds": [
+            "197",
+            "444"
+          ],
+          "mintedCount": 2,
+          "ustSpent": 100.4
+        }
+      },
+      "mintedNftsCount": 2,
+      "totalUstSpent": 100.4
+    }
+  },
+  "marketplaceSalesReport": {
+    "terra16rtjuzwwvqdwuslevcp09jdxwqqgwpdghdy5sw": {
+      "soldNfts": {
+        "GraviCats": {
+          "ustEarnedFromSales": 9200.445422706947,
+          "soldNftsCount": 28,
+          "soldTokenIds": [
+            "919",
+            "956",
+            "907",
+            "848",
+            "337",
+            "900",
+            "887",
+            "593",
+            "378",
+            "815",
+            "803",
+            "655",
+            "682",
+            "642",
+            "605",
+            "548",
+            "517",
+            "284",
+            "468",
+            "444",
+            "436",
+            "269",
+            "345",
+            "288",
+            "331",
+            "227",
+            "219",
+            "205"
+          ]
+        },
+        "Rekt Wolf": {
+          "ustEarnedFromSales": 5862.830401827793,
+          "soldNftsCount": 4,
+          "soldTokenIds": [
+            "1310",
+            "1644",
+            "262",
+            "1644"
+          ]
+        },
+        "Silent Solohs": {
+          "ustEarnedFromSales": 64.67342289876339,
+          "soldNftsCount": 2,
+          "soldTokenIds": [
+            "577",
+            "4286"
+          ]
+        },
+        "Skeleton Punks": {
+          "ustEarnedFromSales": 1169.7583412120914,
+          "soldNftsCount": 3,
+          "soldTokenIds": [
+            "200",
+            "3382",
+            "2172"
+          ]
+        },
+        "LUNITA": {
+          "ustEarnedFromSales": 1835.679368815137,
+          "soldNftsCount": 8,
+          "soldTokenIds": [
+            "1688",
+            "486",
+            "1519",
+            "2302",
+            "1433",
+            "2231",
+            "429",
+            "503"
+          ]
+        },
+        "Luna Shield": {
+          "ustEarnedFromSales": 11.516281117078291,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "177"
+          ]
+        }
+      },
+      "soldNftsCount": 46,
+      "ustEarnedFromSales": 18144.903238577805
+    },
+    "terra1em70vvqc9kf9qatzuyr60mgzzwjzz834n599rq": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1s6kp590lh66kat73zlxg3y3va9990p4mnnxuek": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1qjz84ygvtn0vcm4g4xnm023m4d8hze50286jh9": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1mzvfz6zhprchqwluux9zz42x2xua0p8qekxg0z": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1pwsunmtya0z7kgd59v6eu7q08udnyrrazn3ht5": {
+      "soldNfts": {
+        "GraviCats": {
+          "ustEarnedFromSales": 1916.6887563389353,
+          "soldNftsCount": 6,
+          "soldTokenIds": [
+            "68",
+            "93",
+            "394",
+            "831",
+            "599",
+            "196"
+          ]
+        },
+        "LUNITA": {
+          "ustEarnedFromSales": 690.9768670246975,
+          "soldNftsCount": 2,
+          "soldTokenIds": [
+            "487",
+            "1133"
+          ]
+        },
+        "MutantZ": {
+          "ustEarnedFromSales": 104.23992732472976,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "518"
+          ]
+        },
+        "Rekt Wolf": {
+          "ustEarnedFromSales": 340.49112456140284,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "1644"
+          ]
+        }
+      },
+      "soldNftsCount": 10,
+      "ustEarnedFromSales": 3052.3966752497654
+    },
+    "terra1vqxe3r46vem2y7c0puz6yfhdc2zrhwtzg3ceug": {
+      "soldNfts": {
+        "GraviCats": {
+          "ustEarnedFromSales": 1066.6514303764054,
+          "soldNftsCount": 2,
+          "soldTokenIds": [
+            "181",
+            "178"
+          ]
+        }
+      },
+      "soldNftsCount": 2,
+      "ustEarnedFromSales": 1066.6514303764054
+    },
+    "terra1mvd3ca3h6gcljq4ntvakh23kjk3wyhk4z0tu2m": {
+      "soldNfts": {
+        "MutantZ": {
+          "ustEarnedFromSales": 106.19585046229379,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "877"
+          ]
+        },
+        "Skeleton Punks": {
+          "ustEarnedFromSales": 862.1340842883205,
+          "soldNftsCount": 3,
+          "soldTokenIds": [
+            "2464",
+            "4380",
+            "2650"
+          ]
+        },
+        "Luna Shield": {
+          "ustEarnedFromSales": 39.20455491488686,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "919"
+          ]
+        }
+      },
+      "soldNftsCount": 5,
+      "ustEarnedFromSales": 1007.5344896655012
+    },
+    "terra1j0mwwkk49r0mml23tek30ueanr93750vpmuswt": {
+      "soldNfts": {
+        "Rekt Wolf": {
+          "ustEarnedFromSales": 302.57974500453895,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "837"
+          ]
+        },
+        "Luna Shield": {
+          "ustEarnedFromSales": 32.01519456216984,
+          "soldNftsCount": 2,
+          "soldTokenIds": [
+            "346",
+            "549"
+          ]
+        },
+        "Skeleton Punks": {
+          "ustEarnedFromSales": 307.5876591849145,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "497"
+          ]
+        }
+      },
+      "soldNftsCount": 4,
+      "ustEarnedFromSales": 642.1825987516233
+    },
+    "terra15a8wa7erj6ajvsswyvxdjfe4dm3nrnh96c6m4u": {
+      "soldNfts": {
+        "Rekt Wolf": {
+          "ustEarnedFromSales": 259.35406714674764,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "465"
+          ]
+        },
+        "Skeleton Punks": {
+          "ustEarnedFromSales": 1353.385700413624,
+          "soldNftsCount": 4,
+          "soldTokenIds": [
+            "895",
+            "2493",
+            "3548",
+            "4418"
+          ]
+        }
+      },
+      "soldNftsCount": 5,
+      "ustEarnedFromSales": 1612.7397675603715
+    },
+    "terra1x9s9qgdsdaxhh3df9kcnqe5dyyzz2q5smragv2": {
+      "soldNfts": {
+        "Rekt Wolf": {
+          "ustEarnedFromSales": 345.8054228623302,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "1291"
+          ]
+        },
+        "Luna Shield": {
+          "ustEarnedFromSales": 12.30350636739658,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "726"
+          ]
+        },
+        "Skeleton Punks": {
+          "ustEarnedFromSales": 984.2805093917264,
+          "soldNftsCount": 3,
+          "soldTokenIds": [
+            "3369",
+            "2943",
+            "5053"
+          ]
+        }
+      },
+      "soldNftsCount": 5,
+      "ustEarnedFromSales": 1342.389438621453
+    },
+    "terra1ala6zs487f6trrt504az0syfsttd029xuhnh6q": {
+      "soldNfts": {
+        "Rekt Wolf": {
+          "ustEarnedFromSales": 864.5135571558255,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "1675"
+          ]
+        },
+        "Skeleton Punks": {
+          "ustEarnedFromSales": 2276.1486779683673,
+          "soldNftsCount": 4,
+          "soldTokenIds": [
+            "76",
+            "1535",
+            "3486",
+            "112"
+          ]
+        },
+        "Silent Solohs": {
+          "ustEarnedFromSales": 3575.736065204168,
+          "soldNftsCount": 11,
+          "soldTokenIds": [
+            "1135",
+            "3627",
+            "1783",
+            "4965",
+            "416",
+            "183",
+            "2916",
+            "3692",
+            "858",
+            "3331",
+            "3581"
+          ]
+        },
+        "Luna Shield": {
+          "ustEarnedFromSales": 664.6127736196946,
+          "soldNftsCount": 1,
+          "soldTokenIds": [
+            "809"
+          ]
+        }
+      },
+      "soldNftsCount": 17,
+      "ustEarnedFromSales": 7381.011073948058
+    },
+    "terra1nucq3q83yhmnnt2uteaykh0kksfu9y65nrvex9": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1ljnhx8f644c60r6jz628p9k67us4r2kg9s4g7d": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1jn9eu45fgdxfwmq3y9afdd9x2dmgt45r78lccy": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra12fyk2wrwygg7054js9t3hj6rrn2ccd6z2grshp": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1xymaerjna07yv7e32u7vfvhs7594wczh6ffflt": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra138xnes8d4835ds6sk4wsf44x583485rv4z4htl": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1z6tpjlhvhl6dv2djm52vcdkw2amv637s43cpsl": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1wz6lp9ayf35k8cdxesmyrydxxeglyptxhwg9e8": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra19682etxsay8h4lrff5cg70adh0mmjm3ctamy7n": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1d3hl5s4ncu6e02u560hjaevq9slffwrswd4g4r": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1jg3wnmd8fxgdhtmpnwnz6dgxeuvk8a9nxya037": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1mkmm846a97phqlr9zpu94phjqvwegja66pufh0": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra159zpdxf07yhe7szkmhy9qwqwm7e6m3yljch2qu": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1v9agdxx8pcsd9734n79f3yg9wh4e3ft2vnlnwv": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1tyccxuq2kuyn44zxsy8jupednquyq04547w0hh": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1hgj4ar7a28el4hqgdndkruvl7shemjvjqd2cfr": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra18zvr67rf26q24aclzpkc4ed98usq9sm9wny96d": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1weh2q3utyhfpt8j36v5yp0nyhcl2r8hu2zkusc": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1t38xtlz0huywh8h5c74pnzwcntajyn5aajzekn": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1nwgcam5fxtradcxcmpy3x3nus7g258wtg2f3ze": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra138turxsmh3q462264let7h4pz9dkyk7fvnf0yj": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1ft3yzexjnl6ryfz4f277k9haus4xykqt0ge3ee": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1ry0c33tsaqfxd4hdwmx8z2l5awk728cphx8rwj": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra138vryeyjsalhefcv0acf9pjjapfpet096r9n30": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    },
+    "terra1vc4c3gjduhptqvfzjr2xml9skwyte7y759j0ey": {
+      "soldNfts": {},
+      "soldNftsCount": 0,
+      "ustEarnedFromSales": 0
+    }
+  },
+  "reportPerCollection": {
+    "GraviCats": {
+      "mintedCount": 54,
+      "ustSpent": 2710.800000000001,
+      "ustEarned": 12183.785609422288,
+      "ustProfit": 9472.985609422287,
+      "soldCount": 36
+    },
+    "LUNITA": {
+      "mintedCount": 21,
+      "ustSpent": 2083.2000000000003,
+      "ustEarned": 2526.6562358398346,
+      "ustProfit": 443.4562358398342,
+      "soldCount": 10
+    },
+    "MutantZ": {
+      "mintedCount": 3,
+      "ustSpent": 147.60000000000002,
+      "ustEarned": 210.43577778702354,
+      "ustProfit": 62.83577778702353,
+      "soldCount": 2
+    },
+    "Rekt Wolf": {
+      "mintedCount": 9,
+      "ustSpent": 1792.8,
+      "ustEarned": 7975.574318558639,
+      "ustProfit": 6182.77431855864,
+      "soldCount": 9
+    },
+    "Skeleton Punks": {
+      "mintedCount": 25,
+      "ustSpent": 2755,
+      "ustEarned": 6953.2949724590435,
+      "ustProfit": 4198.2949724590435,
+      "soldCount": 18
+    },
+    "Luna Shield": {
+      "mintedCount": 13,
+      "ustSpent": 1289.6000000000001,
+      "ustEarned": 759.6523105812262,
+      "ustProfit": -529.9476894187741,
+      "soldCount": 6
+    },
+    "Silent Solohs": {
+      "mintedCount": 30,
+      "ustSpent": 1206.0000000000007,
+      "ustEarned": 3640.4094881029314,
+      "ustProfit": 2434.4094881029305,
+      "soldCount": 13
+    }
+  },
+  "finalReport": {
+    "totalUstSpent": 11984.999999999993,
+    "totalUstEarned": 34249.80871275098,
+    "totalNftsMinted": 155,
+    "totalProfitInUST": 22264.808712750986,
+    "soldNftsCount": 94
+  }
+}
