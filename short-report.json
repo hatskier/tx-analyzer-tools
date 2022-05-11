@@ -6,6 +6,14 @@
     "totalProfitInUST": 22264.808712750986,
     "soldNftsCount": 94
   },
+  "nftsLeft": {
+    "Silent Solohs": 18,
+    "MutantZ": 1,
+    "Lunita": 10,
+    "Skeleton Punks": 6,
+    "Gravicats": 13,
+    "Luna Shield": 3
+  },
   "reportPerCollection": {
     "GraviCats": {
       "mintedCount": 54,
